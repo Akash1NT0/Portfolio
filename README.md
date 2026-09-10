@@ -6,7 +6,8 @@
  Создание no-code платформы для производства, в рамках акселерационной программы Creative.Tech 4.0_
 
 [Ссылка на просмотр проекта](https:akash1st.github.io/no-code_project)
-
+_сслыка для открытия проекта если не работает ссылка https:akash1st.github.io/no-code_project_
 ![Фото входа](image_vhod.png)
 ![Фото админ панели](image_admin.png)
 ![Фото пользователя](image_user.png)
+
