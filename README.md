@@ -12,9 +12,9 @@
 [Ссылка на просмотр проекта](https:akash1st.github.io/no-code_project)
 _доп. сслыка для открытия проекта https:akash1st.github.io/no-code_project_
 
-![Фото входа](image_vhod.png)
-![Фото админ панели](image_admin.png)
-![Фото пользователя](image_user.png)
+![Фото входа](images/image_vhod.png)
+![Фото админ панели](images/image_admin.png)
+![Фото пользователя](images/image_user.png)
 
 #### <a id="title_bot_discord">Бот Discord</a>
 
