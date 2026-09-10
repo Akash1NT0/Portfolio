@@ -9,4 +9,4 @@
 
 ![Фото входа](image_vhod.png)
 ![Фото админ панели](image_admin.png)
-![Фото пользователя](image_vhod.png)
+![Фото пользователя](image_user.png)
