@@ -5,6 +5,7 @@
 ## Содержание 
 1. [Crearive.Tech](#title_creative_tech)
 2. [Бот Discord](#title_bot_discord)
+3. [Бот Telegram](#title_bot_discord)
 ## Проекты
  #### <a id="title_creative_tech">Creative.Tech 4.0</a>
  Создание no-code платформы для производства, в рамках акселерационной программы Creative.Tech 4.0
@@ -22,7 +23,7 @@ _доп. сслыка для открытия проекта https:akash1st.gith
 
 [ПАПКА БОТА](DisBot)
 
-#### <a id="title_bot_discord">Бот Telegram</a>
+#### <a id="title_bot_telegram">Бот Telegram</a>
 
 Мини пет-проект по созданию Telegram эхо-бота с простыми задачами запроса и командами
 
